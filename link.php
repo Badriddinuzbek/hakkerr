@@ -19,7 +19,7 @@ $admin = "537924932";
 
 // BOT iz username si
 $bot_name = "Link_ochiradigan_bot";
-// manba @tarixchilaar_1
+// manba @tarixchilaar_1 guruhi
 
 $update = json_decode(file_get_contents('php://input'));  
 $message = $update->message;
